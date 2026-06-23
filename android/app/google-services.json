@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421666460735",
+    "project_id": "boombox-437af",
+    "storage_bucket": "boombox-437af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421666460735:android:e5626767a3dda32289148a",
+        "android_client_info": {
+          "package_name": "com.hiphop.boombox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFnL_R76KWzmUSCnQWJVodg-yuP60fhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
